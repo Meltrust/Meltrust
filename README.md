@@ -6,6 +6,11 @@
 ## Available for hire :seedling:
 ### Full-time dev, heavy coffee drinker. Been in love with tech and software since I was a kid.  Completely immersed in remote development working with teams from all over the world. 
 
+## Latest articles
+<!-- BLOG-POST-LIST:START -->
+- [Beginner web developer: 5 urgent steps you need to know](https://meltrust.medium.com/beginner-web-developer-5-urgent-steps-you-need-to-know-a44f0b7a37a)
+<!-- BLOG-POST-LIST:END -->
+
 <!--
 **Meltrust/Meltrust** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
