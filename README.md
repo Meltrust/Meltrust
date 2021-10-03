@@ -2,7 +2,7 @@
 
 ![banner](41993.jpg)
 
-## Available for hire 💚
+## Available for hire :seedling:
 ### Full-time dev. Been in love with tech and software since I was a kid.  Completely immersed in remote development working with teams from all over the world. 
 
 <!--
