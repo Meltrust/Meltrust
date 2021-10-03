@@ -2,7 +2,7 @@
 
 ![banner](41993.jpg)
 
-## Available for hire :seedling: [![Linkedin Badge](https://img.shields.io/badge/-meltrust-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/meltrust/)](https://www.linkedin.com/in/meltrust/)
+## [![Linkedin Badge](https://img.shields.io/badge/-meltrust-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/meltrust/)](https://www.linkedin.com/in/meltrust/) Available for hire :seedling: 
 ### Full-time dev, heavy coffee drinker. Been in love with tech and software since I was a kid.  Completely immersed in remote development working with teams from all over the world. 
 
 ## Latest articles
