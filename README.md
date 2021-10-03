@@ -1,9 +1,8 @@
-[![Linkedin Badge](https://img.shields.io/badge/-meltrust-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/meltrust/)](https://www.linkedin.com/in/meltrust/)
-[![Twitter Badge](https://img.shields.io/badge/-@meltrustDVX_-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/meltrustDVX)](https://twitter.com/meltrustDVX)
+
 
 ![banner](41993.jpg)
 
-## Available for hire :seedling:
+## Available for hire :seedling: [![Linkedin Badge](https://img.shields.io/badge/-meltrust-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/meltrust/)](https://www.linkedin.com/in/meltrust/)
 ### Full-time dev, heavy coffee drinker. Been in love with tech and software since I was a kid.  Completely immersed in remote development working with teams from all over the world. 
 
 ## Latest articles
