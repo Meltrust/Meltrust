@@ -2,7 +2,7 @@
 
 ![banner](41993.jpg)
 
-### Hi there 👋
+### Hi there 👋 I'm a full-time dev available for hire. Been in love with tech and software since I was a kid.  Completely immersed in remote development working with teams from all over the world. 
 
 <!--
 **Meltrust/Meltrust** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
