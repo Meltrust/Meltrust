@@ -10,7 +10,7 @@
 
 ## Latest articles
 <!-- BLOG-POST-LIST:START -->
-- [Beginner web developer: 5 urgent steps you need to know](https://meltrust.medium.com/beginner-web-developer-5-urgent-steps-you-need-to-know-a44f0b7a37a)
+- [Passionate web developer from zero: 5 urgent steps you need to know](https://meltrust.medium.com/beginner-web-developer-5-urgent-steps-you-need-to-know-a44f0b7a37a)
 <!-- BLOG-POST-LIST:END -->
 
 ## [![Linkedin Badge](https://img.shields.io/badge/-meltrust-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/meltrust/)](https://www.linkedin.com/in/meltrust/) 
